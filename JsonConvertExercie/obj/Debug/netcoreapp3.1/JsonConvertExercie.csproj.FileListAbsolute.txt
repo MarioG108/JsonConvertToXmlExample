@@ -1,0 +1,15 @@
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\bin\Debug\netcoreapp3.1\JsonConvertExercie.exe
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\obj\Debug\netcoreapp3.1\JsonConvertExercie.csprojAssemblyReference.cache
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\obj\Debug\netcoreapp3.1\JsonConvertExercie.AssemblyInfoInputs.cache
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\obj\Debug\netcoreapp3.1\JsonConvertExercie.AssemblyInfo.cs
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\bin\Debug\netcoreapp3.1\JsonConvertExercie.deps.json
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\bin\Debug\netcoreapp3.1\JsonConvertExercie.runtimeconfig.json
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\bin\Debug\netcoreapp3.1\JsonConvertExercie.runtimeconfig.dev.json
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\bin\Debug\netcoreapp3.1\JsonConvertExercie.dll
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\bin\Debug\netcoreapp3.1\JsonConvertExercie.pdb
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\obj\Debug\netcoreapp3.1\JsonConvertExercie.csproj.CoreCompileInputs.cache
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\obj\Debug\netcoreapp3.1\JsonConvertExercie.csproj.CopyComplete
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\obj\Debug\netcoreapp3.1\JsonConvertExercie.dll
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\obj\Debug\netcoreapp3.1\JsonConvertExercie.pdb
+C:\Users\McMario\source\repos\JsonConvertExercie\JsonConvertExercie\obj\Debug\netcoreapp3.1\JsonConvertExercie.genruntimeconfig.cache
